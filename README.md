@@ -4,3 +4,6 @@
 github의 중요성
 
 댓글 기능을 축하였음
+
+1. conflict
+2. merge 
