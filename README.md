@@ -1,1 +1,2 @@
-practice git
+현재 저는 창업 경진 대회를 위해 git-hub를 익히고 있습니다.
+
